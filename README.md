@@ -14,10 +14,10 @@ brain_tumor_dataset/ │ ├── training/ │ ├── healthy/ │ └─�
 # Inastallation
 To run this project, you need to have Python and the following libraries installed:
 
-1.TensorFlow
-2.Keras
-3.NumPy
-4.Matplotlib
+TensorFlow,
+Keras,
+NumPy,
+Matplotlib
 
 You can install the required libraries using pip:
 
